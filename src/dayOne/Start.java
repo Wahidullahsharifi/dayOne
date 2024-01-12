@@ -7,7 +7,7 @@ public class Start {
 		System.out.println("king");
 		
 		
-		
+		System.out.println("i love to learn Java");
 		
 	}
 	
